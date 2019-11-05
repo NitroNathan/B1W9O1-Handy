@@ -1,0 +1,56 @@
+body{
+	background-color: white;
+
+}
+
+
+a{
+ size: 100px;
+ font-family: 'Archivo', sans-serif;
+ text-decoration: none;
+
+
+
+}
+
+#logo{
+	position: relative;
+	margin-left: 230px;
+	margin-top: 20px;
+	top: 10px;	
+	
+}
+
+#header{
+max-width: 100%;
+
+}
+
+.menu{
+	color: white;
+	padding-left: 15px;
+	 
+}
+#banner1{
+	margin:20px 20px 20px 20px;
+
+}
+
+
+nav{
+	background-color: black;
+	width: 950px;
+	height: 45px;
+	top: 23px;
+	position: relative;
+   margin: auto auto;
+   
+
+}
+
+
+li{
+	position: relative;
+	display: inline-block;
+	margin-top: 15px;
+}
