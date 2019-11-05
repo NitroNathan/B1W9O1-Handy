@@ -32,10 +32,18 @@ max-width: 100%;
 	 
 }
 #banner1{
-	margin:20px 20px 20px 20px;
+	margin:60px 10px 10px 130px;
 
 }
 
+#banner2{
+	margin:60px 10px 10px 46px;
+}
+
+#banner3{
+	margin:60px 10px 10px 46px;
+
+}
 
 nav{
 	background-color: black;
